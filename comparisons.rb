@@ -54,21 +54,21 @@ puts number_students <= 21
 
 puts 4 < 9
 #YOU DO: Explain.
-
+# print a comparison: is 4 less than 9
 books = 3
 puts 4 < books
 # YOU DO: Explain.
-
+#creates a variable titled "books" and then print the result of the comparison: is books less than 4
 friends = 6
 siblings = 2
 puts friends > siblings
 # YOU DO: Explain.
-
+# defines two variable friends and siblings and then prints the result of the comparison: is friends greater than siblings
 attendees = 9
 meals = 8
 puts attendees != meals
 # YOU DO: Explain.
-
+# defines two variables as attendees and meals and sets their values as integers then compares: is attendees not equal to meals
 
 #-------------------
 # PART 3: Logical Operators
