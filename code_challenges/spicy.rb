@@ -1,4 +1,4 @@
-input = gets
+input = 2
 
 if (input%3) == 0 && (input%5) == 0
     puts "FizzBuzz"
